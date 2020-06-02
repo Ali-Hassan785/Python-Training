@@ -1,2 +1,1 @@
-# Python-Training
-Python Step by Step
+Pretty cool, huh!

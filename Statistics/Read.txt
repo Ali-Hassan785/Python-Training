@@ -1,0 +1,16 @@
+1. Population and Sample Mean , Mode ,Median Varience , SD
+2. Gaussian Distribution
+3.Standard Normal Distribution
+4.Probability Density Function
+5. Cumulative Distibution Function
+6. Skewness
+7. Log Normal Distribution
+8. Percentiles
+9. Central Limit Distribution
+10. Bernuull And Binomial 
+11. Co-variance , Pearson Correlation
+Coefficient ,Spearman Rank Correlation
+12.Hypothesis Testing
+13. P value test Chisquare
+14.Box Cox Transform
+15 How to use Distribution
